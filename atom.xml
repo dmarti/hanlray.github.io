@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[OSv Blog]]></title>
+  <link href="http://debian:4000/atom.xml" rel="self"/>
+  <link href="http://debian:4000/"/>
+  <updated>2014-03-14T03:08:33-04:00</updated>
+  <id>http://debian:4000/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Test Blog]]></title>
+    <link href="http://debian:4000/blog/2014/03/13/test-blog/"/>
+    <updated>2014-03-13T23:54:23-04:00</updated>
+    <id>http://debian:4000/blog/2014/03/13/test-blog</id>
+    <content type="html"><![CDATA[<p>Blog posts must be stored in the source/_posts directory and named according to Jekyll&rsquo;s naming conventions: YYYY-MM-DD-post-title.markdown. The name of the file will be used as the url slug, and the date helps with file distinction and determines the sorting order for post loops.</p>
+
+<p>Octopress provides a rake task to create new blog posts with the right naming conventions, with sensible yaml metadata.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Capstan]]></title>
+    <link href="http://debian:4000/blog/2014/03/13/capstan/"/>
+    <updated>2014-03-13T11:37:05-04:00</updated>
+    <id>http://debian:4000/blog/2014/03/13/capstan</id>
+    <content type="html"><![CDATA[<p>Capstan is a tool for packing, shipping, and running applications in VMs Although at a very early phase, Capstan is already usable on Linux/KVM.</p>
+
+<p>We have many plans for Capstan, here are few of them:</p>
+
+<ul>
+<li>Allow image manipulation, upload images to the repository</li>
+<li>Support repository search</li>
+<li>Port Capstan to Windows and Mac</li>
+<li>Support more HV, like VirtualBox, VMWare and cloud providers like EC2 and GCE</li>
+<li>Your idea here…</li>
+</ul>
+
+
+<p>Check out Capstan project on Github</p>
+]]></content>
+  </entry>
+  
+</feed>
