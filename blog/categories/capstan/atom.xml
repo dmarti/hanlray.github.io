@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Capstan | OSv Blog]]></title>
-  <link href="http://debian:4000/blog/categories/capstan/atom.xml" rel="self"/>
-  <link href="http://debian:4000/"/>
-  <updated>2014-03-14T03:08:33-04:00</updated>
-  <id>http://debian:4000/</id>
+  <link href="http://hanlray.github.io/blog/categories/capstan/atom.xml" rel="self"/>
+  <link href="http://hanlray.github.io/"/>
+  <updated>2014-03-15T03:14:41-04:00</updated>
+  <id>http://hanlray.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Capstan]]></title>
-    <link href="http://debian:4000/blog/2014/03/13/capstan/"/>
+    <link href="http://hanlray.github.io/blog/2014/03/13/capstan/"/>
     <updated>2014-03-13T11:37:05-04:00</updated>
-    <id>http://debian:4000/blog/2014/03/13/capstan</id>
+    <id>http://hanlray.github.io/blog/2014/03/13/capstan</id>
     <content type="html"><![CDATA[<p>Capstan is a tool for packing, shipping, and running applications in VMs Although at a very early phase, Capstan is already usable on Linux/KVM.</p>
 
 <p>We have many plans for Capstan, here are few of them:</p>
