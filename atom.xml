@@ -4,7 +4,7 @@
   <title><![CDATA[OSv Blog]]></title>
   <link href="http://hanlray.github.io/atom.xml" rel="self"/>
   <link href="http://hanlray.github.io/"/>
-  <updated>2014-03-17T22:36:11-04:00</updated>
+  <updated>2014-03-18T01:54:00-04:00</updated>
   <id>http://hanlray.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,9 +18,9 @@
     <link href="http://hanlray.github.io/blog/2014/03/13/test-blog/"/>
     <updated>2014-03-13T23:54:23-04:00</updated>
     <id>http://hanlray.github.io/blog/2014/03/13/test-blog</id>
-    <content type="html"><![CDATA[<p>Blog posts must be stored in the source/_posts directory and named according to Jekyll&rsquo;s naming conventions: YYYY-MM-DD-post-title.markdown. The name of the file will be used as the url slug, and the date helps with file distinction and determines the sorting order for post loops.</p>
-
-<p>Octopress provides a rake task to create new blog posts with the right naming conventions, with sensible yaml metadata.</p>
+    <content type="html"><![CDATA[<p>Blog posts must be stored in the source/_posts directory and named according to Jekyll&rsquo;s naming conventions: YYYY-MM-DD-post-title.markdown. The name of the file will be used as the url slug, and the date helps with file distinction and determines the sorting order for post loops.
+<img src="../images/dog.jpg" title="A dog" alt="test image" />
+Octopress provides a rake task to create new blog posts with the right naming conventions, with sensible yaml metadata.</p>
 
 <!-- more -->
 
